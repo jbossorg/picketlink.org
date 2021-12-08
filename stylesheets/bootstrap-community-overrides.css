@@ -1,0 +1,263 @@
+/* line 12, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.equalHero .btn {
+  border-radius: 4px 4px 4px 4px !important; }
+
+/* line 21, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+code, pre {
+  font-size: 85%;
+  color: #656565; }
+
+/* line 26, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+pre > code {
+  font-size: 100%; }
+
+/* line 31, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.sect1 > h1 {
+  margin-bottom: 0.5em; }
+
+/* line 36, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.sect1 > h2, .sect1 > h3 {
+  padding-top: 1.5em; }
+
+/* line 40, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.center-icon {
+  text-align: center; }
+
+/* line 44, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+code, pre {
+  font-size: 85%;
+  color: #656565; }
+
+/* line 49, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+pre > code {
+  font-size: 100%; }
+
+/* line 55, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#subproject .dropup {
+  width: 112px;
+  float: right; }
+
+/* line 61, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#logobar > a {
+  padding-left: 24px;
+  display: block;
+  float: left; }
+
+/* line 67, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#logobar > a > img {
+  width: 160px; }
+
+/* line 74, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.mantra {
+  font-weight: bold;
+  font-size: 150%; }
+
+/* line 81, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#myCarouselRow {
+  padding-top: 9px; }
+
+/* line 85, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#myCarousel {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 0;
+  min-height: 23px;
+  overflow: hidden; }
+/* line 91, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#myCarousel ol {
+  display: none; }
+
+/* line 97, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.project-menu {
+  overflow: hidden; }
+
+/* line 100, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.project-menu-title {
+  font-size: 200%;
+  margin-bottom: .5em; }
+
+/* line 105, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.hero-button {
+  margin-top: 1em;
+  margin-left: 1em;
+  margin-right: 1em; }
+
+/* line 111, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.hero-unit {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  /* line 119, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .menu-icon {
+    display: none !important; } }
+/* line 125, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.nav-list > li > a, .nav-list .nav-header {
+  color: #656565; }
+
+/* line 129, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus {
+  background-color: #656565; }
+
+/* line 135, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.feature-block h2, .feature-block h3 {
+  margin-top: .5em; }
+
+/* line 142, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.news-sidebar h2 {
+  margin-top: 0em; }
+
+@media (min-width: 768px) {
+  /* line 149, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .release-bottons {
+    margin-bottom: 2em; } }
+@media (max-width: 767px) {
+  /* line 155, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .release-buttons {
+    margin-bottom: 1em;
+    margin-top: 1em; } }
+@media (max-width: 470px) {
+  /* line 163, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .hero-unit h1 {
+    font-size: 2em; } }
+@media (max-width: 447px) {
+  /* line 170, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  #logobar > a {
+    padding-left: 0px;
+    float: none; }
+
+  /* line 174, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .dropup {
+    float: none; }
+
+  /* line 177, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .navbar {
+    margin-top: 0px; } }
+@media (max-width: 365px) {
+  /* line 183, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .hero-unit {
+    padding: 25px 30px; }
+  /* line 185, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .hero-unit h1 {
+    font-size: 1.5em; } }
+@media (max-width: 270px) {
+  /* line 192, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .hero-unit {
+    padding: 25px 30px; }
+  /* line 194, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  .hero-unit h1 {
+    font-size: 1em; } }
+/* line 202, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+footer.container {
+  padding-top: .3em;
+  padding-bottom: .3em;
+  font-size: 90%;
+  line-height: 80%; }
+/* line 208, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+footer.container h4 {
+  font-size: 110%;
+  margin-top: 5px;
+  margin-bottom: 5px; }
+/* line 213, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+footer.container ul {
+  margin-left: 0; }
+/* line 216, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+footer.container li {
+  line-height: 120%; }
+
+/* line 225, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#toc {
+  background-color: #efefef;
+  padding: 1em; }
+/* line 228, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#toc > ol {
+  margin: .5em 0 .5em .5em; }
+/* line 231, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#toc ol {
+  list-style-type: none; }
+/* line 234, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#toc a {
+  text-decoration: none; }
+
+@media (min-width: 980px) {
+  /* line 240, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  #toc {
+    width: 30%;
+    position: static;
+    top: 0px;
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em; } }
+@media (max-width: 979px) {
+  /* line 252, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+  #toc {
+    margin: 1em; } }
+/* line 258, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+#toctitle {
+  padding-left: 3%;
+  margin-bottom: 1em;
+  font-size: 120%; }
+
+/* line 264, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.sectlevel1 {
+  font-size: 85%; }
+/* line 267, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.sectlevel1 li {
+  margin-left: 0;
+  margin-right: 10%;
+  margin-top: .5em;
+  margin-bottom: .5em; }
+/* line 273, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.sectlevel1 code {
+  font-size: 100%; }
+
+/* line 278, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.sectlevel2 {
+  font-size: 90%; }
+
+/* line 283, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.sectlevel3 {
+  font-size: 90%; }
+
+/* line 298, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.admonitionblock > table {
+  border: 0;
+  margin-bottom: 1.25em;
+  background: none; }
+/* line 303, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.admonitionblock > table td.icon {
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  width: 80px; }
+/* line 308, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.admonitionblock > table td.icon img {
+  max-width: none; }
+/* line 313, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.admonitionblock > table td.content {
+  padding-left: 2em;
+  border-left: 1px solid #ddd;
+  color: #6f6f6f; }
+/* line 320, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.admonitionblock > table td.content > div:last-child p, .admonitionblock > table td.content > div:last-child ol, .admonitionblock > table td.content > div:last-child ul, .admonitionblock > table td.content > div:last-child dl, .admonitionblock > table td.content > div:last-child dl dd:last-child {
+  margin-bottom: 0; }
+
+/* line 329, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.listingblock > .title {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1em;
+  padding-top: .5em;
+  margin-bottom: -.5em;
+  border-width: 1px 0 0 0;
+  border-color: #ddd;
+  text-align: center;
+  border-style: solid; }
+
+/* line 344, /pedroigor/java/workspace/jboss/picketlink/web-picketlink.org/stylesheets/bootstrap-community-overrides.scss */
+.feedback-button {
+  margin-top: 1em;
+  margin-bottom: 1em; }

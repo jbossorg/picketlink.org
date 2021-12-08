@@ -1,0 +1,2285 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://www.picketlink.org/</id>
+  <title>PicketLink News</title>
+  <updated>2015-12-17T03:34:39-02:00</updated>
+  <link href="https://www.picketlink.org/news.atom" rel="self" type="application/atom+xml" />
+  <link href="https://www.picketlink.org/" rel="alternate" type="text/html" />
+  <entry>
+    <id>https://www.picketlink.org/news/2015/12/16/Release-2/</id>
+    <title>PicketLink 2.7.1.Final is out!</title>
+    <updated>2015-12-17T03:34:39-02:00</updated>
+    <published>2015-12-16T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2015/12/16/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      We&#8217;re very pleased to announce PicketLink v2.7.1.Final release.
+      
+      
+      Thanks the community for all feedback since the last release. This release includes a number of bug fixes over the last release.
+      
+      
+      More details about the issues resolved by this version can be found on the Release Notes.
+      ...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re very pleased to announce PicketLink v2.7.1.Final release.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Thanks the community for all feedback since the last release. This release includes a number of bug fixes over the last release.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details about the issues resolved by this version can be found on the &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12329071&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2015/03/10/PicketLink-and-Keycloak-project-merge/</id>
+    <title>PicketLink and Keycloak projects are merging!</title>
+    <updated>2015-12-16T19:18:42-02:00</updated>
+    <published>2015-03-10T00:11:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2015/03/10/PicketLink-and-Keycloak-project-merge/" rel="alternate" type="text/html" />
+    <author>
+      <name>Bolesław Dawidowicz</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="keycloak"></category>
+    <summary>
+      
+      
+      
+      Together with new PicketLink 2.7.0.Final release, we would like to announce that PicketLink and Keycloak projects will be merging their efforts. Code base of both will get unified and new features will be developed in a single place.
+      
+      
+      As part of this merge all key features of PicketLink will get included into Keycloak. Combining strengths of both projects and providing their communities a single polished and unified security solution. Joining both efforts should enable faster progress on new features which will be beneficial for all users and developers leveraging those solutions.
+      
+      
+      
+      
+      PicketLink origins
+      
+      
+      PicketLink project was originally started being a central hub for...
+    </summary>
+    <content type="html">
+      &lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Together with new &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; 2.7.0.Final release, we would like to announce that &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; and &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; projects will be merging their efforts. Code base of both will get unified and new features will be developed in a single place.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;As part of this merge all key features of &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; will get included into &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt;. Combining strengths of both projects and providing their communities a single polished and unified security solution. Joining both efforts should enable faster progress on new features which will be beneficial for all users and developers leveraging those solutions.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;__a_href_http_picketlink_org_picketlink_a_origins&quot;&gt;&lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; origins&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; project was originally started being a central hub for all security related efforts for Red Hat Middleware. It is a security framework providing a rich set of capabilities for Java EE applications including Authentication, Authorization or Permissions APIs and flexible IDM solution. One of other key features adopted and used in many organizations world wide is Federation component providing SAML Identity and Service Provider capabilities. On top of that it contains a toolbox of different useful APIs and helper classes in identity and security areas.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;__a_href_http_keycloak_org_keycloak_a_origins&quot;&gt;&lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; origins&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; initially originated as a merge of two initiatives. First one was &lt;a href=&quot;https://developer.jboss.org/wiki/ResteasySkeletonKeyWebSSOOAuth&quot;&gt;SkeletonKey module&lt;/a&gt; from &lt;a href=&quot;http://resteasy.jboss.org/&quot;&gt;RestEasy&lt;/a&gt; project aiming to provide easy security for REST APIs in Java EE world. Second part was a prototype to provide easily consumable Social Login capabilities in a form of Identity Broker. Both merged together with aim to expose out of the box security capabilities for application developers that they could seamlessly integrate.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;_reasons_for_merging_both_projects&quot;&gt;Reasons for merging both projects&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;While both project initially covered slightly different areas and angles they naturally started overlapping over time. &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; from being Identity Broker grew into being fully fledged Identity Provider. Initially it was only exposing basic token based security for REST APIs built on top of OAuth2 spec. Currently it aims full OpenID Connect interoperability, providing base SAML IdP capabilities and working on developing integration points via Kerberos or Identity Provider Brokering set of features.  With all of this work happening &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; naturally stepped into area which was initially covered by &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; with it’s framework capabilities.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Major difference between &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; and &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; has always been framework vs out of the box nature of both solutions. &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; was always focusing on providing easily used set of base features with flexibility to extend them your way to build on top. This is still the key strength that many users love. It acts a security toolbox from which you can pick from according to your needs. Original idea behind &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; was to provide out of the box solution which could be embedded or integrated into your application. Externalizing most of common security capabilities that developers need to repeatedly provide for their applications - like login screens, OTP or social login. All of those features accompanied with extensive and well designed UI console, resulted in skyrocketing adoption in the community&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Developers engaged in both projects started hearing repeating questions from community users around overlap, differences and their future. After long debates we decided it is high time to merge them!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We will start merging key parts of &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; codebase into &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; and proceed further under this project name.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;_what_you_can_expect_happening_during_next_few_months&quot;&gt;What you can expect happening during next few months?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Specific parts of &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; codebase being forked and merged into &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt;. We are starting with &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; Federation / SAML.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Inclusion or implementation of particular features will get discussed in public on the &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; &lt;a href=&quot;https://lists.jboss.org/mailman/listinfo/keycloak-dev&quot;&gt;project mailing list&lt;/a&gt;. We are looking forward for your participation there as we would like to hear your feedback on changes that we are doing.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Web sites for both projects will get slightly changed to reflect new situation.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Many new cool features coming shortly!&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;_what_happens_to_a_href_http_picketlink_org_picketlink_a_project&quot;&gt;What happens to &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; project?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Short answer is - nothing dramatic really… No one is switching the lights off! All project sources, materials and communication channels will still remain available and open for the community. Developers associated with Red Hat will be focusing much more on new features development in &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; project. However if there are contributions coming in from the community we’ll still assist you as much as we can. Although expect repeating encouragement from our side to try &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; out everytime you ask for a new &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; feature ;)&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;_please_find_additional_a_href_keycloak_merge_faq_faq_a_on_a_href_http_picketlink_org_picketlink_a_project_website&quot;&gt;Please find additional &lt;a href=&quot;https://www.picketlink.org/keycloak-merge-faq&quot;&gt;FAQ&lt;/a&gt; on &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; project website.&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We hope it will answer most of your questions or concerns.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_pedro_igor_silva_a_href_http_picketlink_org_picketlink_a_project_leader&quot;&gt;Pedro Igor Silva - &lt;a href=&quot;https://www.picketlink.org&quot;&gt;PicketLink&lt;/a&gt; Project Leader&lt;/h4&gt;
+      
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_bill_burke_and_stian_thorgersen_a_href_http_keycloak_org_keycloak_a_project_leaders&quot;&gt;Bill Burke and Stian Thorgersen - &lt;a href=&quot;http://keycloak.org&quot;&gt;Keycloak&lt;/a&gt; Project Leaders&lt;/h4&gt;
+      
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_bolesław_dawidowicz_security_platform_architect_at_red_hat&quot;&gt;Bolesław Dawidowicz - Security Platform Architect at Red Hat.&lt;/h4&gt;
+      
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2015/02/27/Release-2/</id>
+    <title>PicketLink 2.7.0.Final is out!</title>
+    <updated>2015-12-17T01:58:42-02:00</updated>
+    <published>2015-02-27T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2015/02/27/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      
+      
+      We’re very pleased to announce PicketLink v2.7.0.Final release, finally.
+      
+      
+      Thanks the community for all feedback since the last release. This release includes a number of improvements and bug fixes over the last release.
+      
+      
+      
+      
+      PicketLink JEE Security
+      
+      
+      
+      
+      The Http Security API now supports CORS. Now you can enable and configure CORS for each of your protected paths or path groups.
+      
+      
+      For those using JSF, a new example was added to our quickstart repository that demonstrates how to perform FORM authentication using JSF and the Http Security API. You can find the quickstart here.
+      
+      
+      Better integration with PrettyFaces Rewrite.
+      
+      
+      Better support when using PicketLink JEE Security in HA...
+    </summary>
+    <content type="html">
+      &lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re very pleased to announce PicketLink v2.7.0.Final release, finally.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Thanks the community for all feedback since the last release. This release includes a number of improvements and bug fixes over the last release.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;_picketlink_jee_security&quot;&gt;PicketLink JEE Security&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;The Http Security API now supports CORS. Now you can enable and configure &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html-single/index.html#CORS_Support&quot;&gt;CORS&lt;/a&gt; for each of your protected paths or path groups.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;For those using JSF, a new example was added to our quickstart repository that demonstrates how to perform FORM authentication using JSF and the Http Security API. You can find the quickstart &lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-form-with-jsf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Better integration with &lt;a href=&quot;http://www.ocpsoft.org/prettyfaces/&quot;&gt;PrettyFaces Rewrite&lt;/a&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Better support when using PicketLink JEE Security in HA environments.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;_picketlink_identity_management&quot;&gt;PicketLink Identity Management&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Added support for &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html-single/index.html#Managed_attributes&quot;&gt;Managed Attributes&lt;/a&gt;. This is a major improvement on how you create your identity model, specially when using JPA. In conjunction with the &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html-single/index.html#Default_Database_Schema&quot;&gt;Default Schema&lt;/a&gt;, you can write your own types very easily without create their corresponding JPA entities. Managed attributes allows you to store properties as ad-hoc attributes and still use them in a type-safe manner.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Permission API is now supporting cross-partition references for identity types. That means you can use, for example, a LDAP identity store for your users and still be able to manage permissions for them using a JPA identity store.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;LDAP authentication was improved in order to authenticate users despite their location in the LDAP tree. This is specially useful if you are using PicketLink and LDAP in read-only mode.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;_picketlink_saml_support&quot;&gt;PicketLink SAML Support&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Improvements to Backchannel Logout, specially when using SSL/TLS.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;A number of important bug fixes and improvements.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details about the issues resolved by this version can be found on the &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12323643&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/12/23/Release-2/</id>
+    <title>PicketLink 2.7.0.CR3 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-12-23T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/12/23/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      We&#8217;re very pleased to announce PicketLink v2.7.0.CR3 release.
+      
+      
+      This release includes important bug fixes and enchancements. One of the main features included in this release is the support
+      for Security Levels and Adaptive Access Control. For more details, please take a look at the documentation.
+      The following quickstarts were also added to the repository:
+      
+      
+      
+      
+      https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-security-level
+      
+      
+      https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-levels-complex
+      
+      
+      
+      
+      Special thanks for Michal Trnka for all contributions to the security levels support !
+      
+      
+      For more details and release notes, take a look here.
+      ...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re very pleased to announce PicketLink v2.7.0.CR3 release.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This release includes important bug fixes and enchancements. One of the main features included in this release is the support
+      for Security Levels and Adaptive Access Control. For more details, please take a look at the &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html/sect-Multi-Level_Authentication.html&quot;&gt;documentation&lt;/a&gt;.
+      The following quickstarts were also added to the repository:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-security-level&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-security-level&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-levels-complex&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-levels-complex&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Special thanks for Michal Trnka for all contributions to the security levels support !&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For more details and release notes, take a look &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12326066&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/11/07/Release-2/</id>
+    <title>PicketLink 2.7.0.CR2 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-11-07T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/11/07/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      We&#8217;re very pleased to announce PicketLink v2.7.0.CR2 release.
+      
+      
+      The most significant changes included in this version are related with:
+      
+      
+      
+      
+      Improvements to PicketLink IDM Query API
+      
+      
+      Improvements to SAML Metadata, Encryption and Attributes Support
+      
+      
+      The SAML Service Provider Servlet Filter was updated
+      
+      
+      
+      
+      The PicketLink Query API is now more flexible and supports different type of conditions when querying your identity types. The documentation
+      was updated to reflect these changes. Some methods were marked as deprecated, but changes do not impact backward compatibility.
+      
+      
+      For more details and release notes, take a look here.
+      ...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re very pleased to announce PicketLink v2.7.0.CR2 release.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The most significant changes included in this version are related with:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Improvements to PicketLink IDM Query API&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Improvements to SAML Metadata, Encryption and Attributes Support&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;The SAML Service Provider Servlet Filter was updated&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink Query API is now more flexible and supports different type of conditions when querying your identity types. The documentation
+      was updated to reflect these changes. Some methods were marked as deprecated, but changes do not impact backward compatibility.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For more details and release notes, take a look &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12323647&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/10/07/Release-2/</id>
+    <title>PicketLink 2.7.0.CR1 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-10-07T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/10/07/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      We&#8217;re very pleased to announce PicketLink v2.7.0.CR1 release. This is a major release containing several improvements and bug fixes. Thanks for
+      all feedback from our community. This version was delayed due to a syncronization with EAP roadmap. We apologize for that.
+      
+      
+      The most significant changes included in this version are related with:
+      
+      
+      
+      
+      Permission API
+      
+      
+      SAML
+      
+      
+      
+      
+      The Permission API is now supported by the File-based Identity Store. A few issues were also fixed and a new quickstart created to demonstrate
+      how you can use permissions programmatically or using annotations:
+      
+      
+      
+      
+      https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-acl
+      
+      
+      
+      
+      Regarding SAML support, there are a few improvements to the PicketLink SAML IdP that provides more flexibility if you...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re very pleased to announce PicketLink v2.7.0.CR1 release. This is a major release containing several improvements and bug fixes. Thanks for
+      all feedback from our community. This version was delayed due to a syncronization with EAP roadmap. We apologize for that.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The most significant changes included in this version are related with:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Permission API&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;SAML&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Permission API is now supported by the File-based Identity Store. A few issues were also fixed and a new quickstart created to demonstrate
+      how you can use permissions programmatically or using annotations:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-acl&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-acl&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Regarding SAML support, there are a few improvements to the PicketLink SAML IdP that provides more flexibility if you want to customize how SAML Assertions
+      are issued, specially when providing your own attributes. You may want to check these links:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://docs.jboss.org/author/display/PLINK/User-defined+SAML+Assertion+Attributes&quot; class=&quot;bare&quot;&gt;https://docs.jboss.org/author/display/PLINK/User-defined+SAML+Assertion+Attributes&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://docs.jboss.org/author/display/PLINK/SAML2AuthenticationHandler&quot; class=&quot;bare&quot;&gt;https://docs.jboss.org/author/display/PLINK/SAML2AuthenticationHandler&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Another important improvement was to the Single Logout Support. The PicketLink IdP now supports the Back-Channel Single Logout mode, as
+      described by the link bellow.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://docs.jboss.org/author/display/PLINK/Back-Channel+Single+Logout&quot; class=&quot;bare&quot;&gt;https://docs.jboss.org/author/display/PLINK/Back-Channel+Single+Logout&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;On the next releases we’re going to focus on specific performance tests and also to make configuration even easier if you are using CDI.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For more details and release notes, take a look &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12323646&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/09/15/Release-2/</id>
+    <title>PicketLink 2.7.0.Beta2 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-09-15T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/09/15/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      We&#8217;re very pleased to announce PicketLink v2.7.0.Beta2 release. This release contains several bug fixes and improvements.
+      
+      
+      Thanks the community for all feedback about the previous version.
+      
+      
+      For more details and release notes, take a look here.
+      ...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re very pleased to announce PicketLink v2.7.0.Beta2 release. This release contains several bug fixes and improvements.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Thanks the community for all feedback about the previous version.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For more details and release notes, take a look &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12323645&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/08/25/Release-2/</id>
+    <title>PicketLink 2.7.0.Beta1 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-08-25T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/08/25/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      We&#8217;re very pleased to announce PicketLink v2.7.0.Beta1 release. This is a major release containing several features and improvements.
+      
+      
+      
+      
+      PicketLink Forge Addon
+      
+      
+      Better support for Http and Web Security
+      
+      
+      Configuration improvements to make it even more simple. Specially when working with the JPA Identity Store.
+      
+      
+      Added a new identity store to better handle tokens. Useful to consume tokens and extract identity information from tokens regardless their format.
+      
+      
+      Improvements to the LDAP Identity Store. Thanks to Marek Posolda.
+      
+      
+      Easily turn your application as a Token Provider using any token format such as JWT and JWS.
+      
+      
+      SAML Back-Channel Single Logout.
+      
+      
+      PicketLink SAML and KeyCloak Integration.
+      
+      
+      Better support for JWT and JOSE specifications....
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re very pleased to announce PicketLink v2.7.0.Beta1 release. This is a major release containing several features and improvements.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://forge.jboss.org/addon/org.picketlink.tools.forge:picketlink-forge-addon&quot;&gt;PicketLink Forge Addon&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Better support for &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html-single/index.html#chap-Http_Security&quot;&gt;Http and Web Security&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Configuration improvements to make it even more simple. Specially when working with the JPA Identity Store.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Added a new identity store to better handle tokens. Useful to consume tokens and extract identity information from tokens regardless their format.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Improvements to the LDAP Identity Store. Thanks to &lt;strong&gt;Marek Posolda&lt;/strong&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Easily turn your application as a Token Provider using any token format such as JWT and JWS.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://docs.jboss.org/author/display/PLINK/Back-Channel+Single+Logout&quot;&gt;SAML Back-Channel Single Logout&lt;/a&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;PicketLink SAML and KeyCloak Integration.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Better support for JWT and JOSE specifications. Thanks to &lt;strong&gt;Giriraj Sharma&lt;/strong&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Updates to the documentation.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Quickstarts were updated to consider some of the configuration changes. New ones added.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Bug fixes. See release notes for more details.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink Forge Addon is a great step to provide a better experience for developers looking for securing their apps. It provides
+      an initial feature set to easily enable Identity Management, Authentication and Authorization to your project using PicketLink.
+      Thanks for &lt;strong&gt;George Gastaldi&lt;/strong&gt; and &lt;strong&gt;Lincoln Baxter&lt;/strong&gt;, from &lt;a href=&quot;http://forge.jboss.org/&quot;&gt;JBoss Forge&lt;/a&gt;, for all support during the development of this addon.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Our community was asking for built-in features for Http and Web Security and one of the outcomes of this release is a set of features
+      to easily secure Web-Based applications, including RESTful applications. Given its path-oriented configuration, the new API provides great flexibility with a deep
+      integration with the Java Servlet API. In a nutshell, every single feature provided by PicketLink is now available to secure your RESTFul endpoints, web pages or any other resources in your application.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Another important aspect of this release is about tokens support. PicketLink now provides an API that you can use to create Token Providers and Consumers, considering
+      any token format you want, including support for the JWT and JWS specifications.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Also, an initial work has began in order to provide built-in integration with PicketLink SAML and KeyCloak. You can easily switch between
+      different identity providers without change a single line of business code in your application. In the next releases we’re going to officialy support
+      this functionality. However, if you want to give it a try, please join us at #picketlink on irc.freenode.net.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For last, please take a look at the quickstarts. Some of them were updated to reflect the improvements to the configuration. Specially when using the
+      JPA Identity Store.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For more details and release notes, take a look &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12323644&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/08/13/JUDCon2014/</id>
+    <title>JUDCon 2014 Brazil</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-08-13T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/08/13/JUDCon2014/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="events"></category>
+    <category term="judcon"></category>
+    <summary>
+      
+      The International JBoss Users and Developer Conference, and premier JBoss developer event “By Developers, For Developers,”
+      is pleased to announce that the call for papers for JUDCon: 2014 Brazil, which will be held in São Paulo on September 26th,
+      is now open! Got Something to Say? Say it at JUDCon: 2014 Brazil! Call for papers ends at 5 PM on August 22nd, 2014 São Paulo time,
+      and selected speakers will be notified by August 29th, so don&#8217;t delay!
+      
+      
+      More details at http://www.jboss.org/events/JUDCon/2014/brazil/cfp
+      ...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The International JBoss Users and Developer Conference, and premier JBoss developer event “By Developers, For Developers,”
+      is pleased to announce that the call for papers for JUDCon: 2014 Brazil, which will be held in São Paulo on September 26th,
+      is now open! Got Something to Say? Say it at JUDCon: 2014 Brazil! Call for papers ends at 5 PM on August 22nd, 2014 São Paulo time,
+      and selected speakers will be notified by August 29th, so don’t delay!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details at &lt;a href=&quot;http://www.jboss.org/events/JUDCon/2014/brazil/cfp&quot;&gt;http://www.jboss.org/events/JUDCon/2014/brazil/cfp&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/06/23/Release-2/</id>
+    <title>PicketLink 2.6.0.Final is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-06-23T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/06/23/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Anil Saldhana</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      
+      
+      PicketLink v2.6.0.Final has been released
+      
+      
+      The PicketLink team is pleased to announce the release of v2.6.0.Final.
+      
+      
+      This release is a fantastic one for the following reasons:
+      
+      
+      
+      
+      Authentication support includes both stateful and stateless modes
+      
+      
+      Authorization support provided
+      
+      
+      
+      Security Annotations for authorization
+      
+      
+      Permission API
+      
+      
+      
+      
+      
+      Use of Apache Deltaspike v1.0.0
+      
+      
+      PicketLink Uber Jar (One Single Jar as dependency)
+      
+      
+      JSON based security tokens using JWT and JWE Specifications
+      
+      
+      Configuration API
+      
+      
+      Improvements of SAML Support
+      
+      
+      
+      For both SP and IDP Initiated SSO
+      
+      
+      SAML Service Providers can choose dynamic accounts
+      
+      
+      WildFly Bindings and Jetty Bindings
+      
+      
+      IDPFilter for all web applications on any servlet container
+      
+      
+      JAXRS Endpoint to issue SAML Assertions
+      
+      
+      PicketLink Subsystem for JBoss EAP 6.3 and WildFly Application Server 9
+      
+      
+      
+      
+      
+      PicketLink Quickstarts
+      
+      
+      
+      
+      More...
+    </summary>
+    <content type="html">
+      &lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;PicketLink v2.6.0.Final has been released&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink team is pleased to announce the release of v2.6.0.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This release is a fantastic one for the following reasons:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Authentication support includes both &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html/sect-Authentication_API_-_the_code_xmlnshttpdocbook.orgnsdocbookIdentitycode_bean.html#Stateful_or_Stateless_Authentication&quot;&gt;stateful and stateless modes&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Authorization support provided&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html/chap-Authorization.html&quot;&gt;Security Annotations for authorization&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html/chap-Identity_Management_-_Permissions_API_and_Permission_Management.html&quot;&gt;Permission API&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Use of Apache Deltaspike v1.0.0&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html/Maven_Dependencies.html&quot;&gt;PicketLink Uber Jar (One Single Jar as dependency)&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;JSON based security tokens using JWT and JWE Specifications&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Configuration API&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Improvements of &lt;a href=&quot;https://docs.jboss.org/author/display/PLINK/SAML+v2.0&quot;&gt;SAML Support&lt;/a&gt;&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;For both SP and IDP Initiated SSO&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;SAML Service Providers can choose dynamic accounts&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;WildFly Bindings and Jetty Bindings&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;IDPFilter for all web applications on any servlet container&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;JAXRS Endpoint to issue SAML Assertions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html/chap-PicketLink_Subsystem.html&quot;&gt;PicketLink Subsystem&lt;/a&gt; for JBoss EAP 6.3 and WildFly Application Server 9&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/v2.6.0.Final/&quot;&gt;PicketLink Quickstarts&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details about the issues resolved by this version can be found on the &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12325105&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;_release_history&quot;&gt;Release History&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Includes versions PLINK_2.6.0.Final, PLINK_2.6.0.CR5, PLINK_2.6.0.CR4, PLINK_2.6.0.CR3, PLINK_2.6.0.CR2, PLINK_2.6.0.CR1, PLINK_2.6.0.Beta4, PLINK_2.6.0.Beta3 and PLINK_2.6.0.Beta2.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;strong&gt;Feature Request&lt;/strong&gt;&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-146 ] XMLSignatureUtil should allow KeyInfo to use X509 if desired&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-268 ] Implement Permission Management&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-297 ] CertificateLdapExtLoginModule&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-303 ] Improve logging and messages&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-316 ] Create static pool of PicketLink STS clients to improve performance of login modules&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-318 ] PicketLink Undertow Bindings&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-323 ] Social Login Quickstarts&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-327 ] PasswordCredentialTypeEntity could not be loaded with TomEE&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-337 ] Support for privilege inheritence chains&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-341 ] SAML Service Provider Workflow abstraction&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-342 ] IDPFilter for web applications&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-343 ] Jetty Bindings for SAML SSO&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-344 ] Service Provider Dynamic Account Chooser Functionality&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-353 ] AuthenticationFilter can not be deployed in Glassfish&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-359 ] Regular Expression User Name Login Module&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-363 ] Combined Service Provider Authenticator&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-364 ] SAML2 IDP Initiated SSO&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-368 ] Role Generator for JBossAS/JBossWeb Combination&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-385 ] Support connection pooling when using the LDAP Identity Store&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-386 ] Unsolicited IDP initiated Auth via POST binding&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-400 ] Stateless behavior to the Identity bean&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-408 ] Allow built in schemes to be overridden in AuthenticationFilter&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-415 ] AuthenticationFilter should not call identity.login() unless the request is a login attempt&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-416 ] AuthenticationFilter must allow schemes to indicate if a request should be protected or not&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-417 ] AuthenticationFilter must support stateless authentication&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-425 ] PicketLink does not include NameID and Destination for the  LogoutRequest&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-431 ] Create PicketLink Uber Jar&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-435 ] Support Token-based Credential OOTB&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-442 ] Account Chooser Valve should show account chooser page when user wants to change IDP&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-475 ] Introduce configuration API to the base module&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-488 ] JAX-RS Endpoint Service to issue SAML Assertions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-492 ] SAMLClient API&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-494 ] Rename @RequiresAccount to @LoggedIn&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-495 ] Authentication Schemes should avoid dialog box when performing Ajax Requests&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;strong&gt;Bug&lt;/strong&gt;&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-199 ] Error granting role with EclipseLink&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-210 ] Regression: use of In.value() for collections&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-281 ] Quickstarts: Remove references to AS 7.1 in the PicketLink quickstarts&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-332 ] PicketLink fails to bootstrap due to TransactionRequiredException on TomEE and GlassFish&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-360 ] SAML Assertion parsing - empty AttributeValue raises exception&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-356 ] Reloading configuration in IDP doesn’t work&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-361 ] Wrong validation when configuring credentials using multiple stores for a single identity configuration&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-365 ] Error on verify ACL Permission&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-367 ] Custom partition types are not properly configured when specifying the custom type instead of the base Partition type&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-372 ] boolean config values should default to boolean.FALSE if not explicitly declared in configs&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-378 ] SAML2LogoutHandler should create logout request with nameid format&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-379 ] HTTP Redirect Binding is not restoring original request when accessing a SP for the first time&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-380 ] IDPFilter is not populating roles in assertion when using SAML v1.1&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-381 ] IDPFilter is stopping the filter chain and not providing application resources&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-382 ] WildFly Binding is not supporting SAML v1.1 usecases&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-383 ] WildFly SP Binding is is raising IllegalStateException messages.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-384 ] Users can authenticate with invalid credentials into LDAP in concurrent environment&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-387 ] Create producer method for PersistentPermissionVoter&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-395 ] Add classes under org.picketlink.identity.federation.core.config&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-396 ] IDPWebBrowserSSOValve and IDPFilter are decoding the relaystate&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-402 ] AbstractAccountChooserValve needs to deal with Session properly during logout&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-403 ] IDM not able to handle Ldap server restarts&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-404 ] AbstractAccountChooserValve needs to handle case when user did not succeed at IDP&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-405 ] Make the principal that gets sent to the AttributeManager configurable&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-406 ] Picketlink doesn’t work with RH Directory server 9.1&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-407 ] characterEncoding parameter not used in for requests in IDPWebBrowserSSOValve&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-409 ] IPv6 configuration of WildFly or EAP needs to search for key alias without enclosing []&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-410 ] Metadata of Single EntityDescriptor should allow for EntityDescriptor root element&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-414 ] PicketLink failed AuthnRequest issues invalid top level Saml2 statusCode value in response&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-422 ] SAML2 Unsolicited Response is always redirecting back to SP ACS URL&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-426 ] PicketLink unable to parse jboss environment variables such as &amp;quot;jboss.server.config.dir&amp;quot; that may have backslashes in the values&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-428 ] PicketLink does not include Destination for an AuthnFailed Response&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-434 ] Credential status is not being updated when using username/password credentials&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-436 ] Identity.hasPermission(class, identifier) does not work with a JPA store&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-443 ] JPAIdentityStore looks for Id.class instead of Identity.class&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-444 ] PL should not automatically add basic model types&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-446 ] Account Chooser Valve does not need saveRequest and restoreRequest methods&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-448 ] Identity bean not available in EL&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-449 ] XMLConfigurationProvider should make IDM_Classloaders array private&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-451 ] JPABasedTokenRegistry→executeInTransaction should defend against null manager&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-452 ] LDAPIdentityStore→removeRelationship needs to check for null mappedAttribute&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-453 ] RelationshipJdbcType→load needs to handle paramValues being null&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-454 ] IdentityStoreConfigurationBuilder→unsupportType should address null operations&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-455 ] XMLEncryptionUtil→decryptElementInDocument() should consider null decryptedDoc&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-456 ] DefaultPartitionManager→getStoreForCredentialOperation handle null identityStore&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-457 ] IDPMetadataConfigurationProvider→getIDPConfiguration() should handle null entities&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-460 ] FileBasedMetadataConfigurationStore should close FileInputStream/FileWriter in finally&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-461 ] FacebookProcessor → readUrlContent should close stream&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-462 ] ExternalAuthentication → readUrlContent should close stream&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-463 ] XMLEncryptionUtil should use StringUtil for null string checks&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-464 ] WSSecurityWriter/WSTrustResponseWriter should use StringUtil for null string checks&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-465 ] LDAPUtil→formatDate should not call format on static DateFormat&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-466 ] CoreConfigUtil→decryptPasswords should not new String of String&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-467 ] KeyStoreUtil→addCertificate should close fileoutputstream in finally&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-468 ] IDPFilter→initIDPConfiguration may not be closing InputStream&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-469 ] public static non final variables should be made final&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-470 ] BaseFormAuthenticator→setConfigProvider references null parameter&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-471 ] OpenIDTokenProvider→check() method has static serverManager in unsynchronized mode&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-472 ] AbstractIDPValve→initIDPConfiguration may not be closing InputStream&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-473 ] BaseFormAuthenticator→processConfiguration may not be closing InputStream&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-474 ] SPFormAuthenticationMechanism→processConfiguration may not be closing InputStream&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-480 ] Identity bean should be passivation-capable&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-483 ] PostBindingUtil - sendPost errantly appending new line character causing outputstream closed exception on Jetty&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-485 ] User created with IDM in ActiveDirectory doesn’t have correct ID returned&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-486 ] [WildFly] PicketLink SAML is logging &amp;quot;Stream closed&amp;quot; messages when using POST&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-487 ] IDPFilter: getUserPrincipal calls request.getUserPrincipal 2 times&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-493 ] Review WildFly Support&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-499 ] SAML20/SAML11 AssertionTokenProviders→validate method is not checking assertion expiry properly&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;strong&gt;Task&lt;/strong&gt;&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-201 ] Review CI environment&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-284 ] PicketLink IDP and SPNego&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-319 ] WildFly PicketLink Extension and IDM Subsystem&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-321 ] Create assembly config to package a non-CDI jar of IDM&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-350 ] Validate XMLSignatureUtil→KeyInfo/X509Certificate Usage&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-355 ] Merge federation quickstarts into jboss-developer/jboss-picketlink-quickstarts&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-366 ] Checkstyle for PicketLink Bindings Project&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-370 ] Lower log level from INFO to TRACE for Canonicalization&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-371 ] Investigate why the @Id field of RelationshipIdentityTypeEntity changed&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-373 ] Ensure Boolean variables are initialized and handle null autoboxing issues&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-374 ] Enable WildFly distribution in PicketLink Bindings&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-376 ] Port JSON Security from PicketBox Core&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-377 ] Bring social dependency in PL BOM&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-389 ] Document the Authentication Events&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-392 ] Quickstart for Mobile Use Case (JAX-RS,BASIC,PL IDM,LDAP)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-394 ] Quickstart for displaying Terms of Service page after authentication&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-411 ] Extract JWT code to its own module from oAuth&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-420 ] Quickstart using HTML5 + Bootstrap + AngularJS + REST&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-423 ] Remove distribution from build&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-427 ] Quickstart for displaying Terms of Service page after authentication at the IDP&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-439 ] Create picketlink-deltaspike module&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-476 ] Move PicketLink API events to org.picketlink.event package&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-477 ] Move PicketLink BaseLog to org.picketlink.log package&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-478 ] Move PicketLink extensions to a specific package&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-479 ] Remove cache api as it is not in use&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-481 ] Update Apache Deltaspike to v0.7&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-504 ] Custom Identity Model Quickstart&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-505 ] Custom Identity Model Guide&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;strong&gt;Support Patch&lt;/strong&gt;&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-304 ] picketlink + eclipselink issue&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;strong&gt;Component  Upgrade&lt;/strong&gt;&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-498 ] Upgrade Apache DeltaSpike to 1.0.0&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;strong&gt;Enhancement&lt;/strong&gt;&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-313 ] IDP should be configurable to sign assertions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-322 ] BasicModel.hasRole should consider roles assigned to the group which the user belongs to&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-352 ] Proper exception message when using a wrong attribute mapping for referenced IdentityType&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-362 ] File based IDM in clustered environment in the same machine&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-369 ] Support a ClassLoader when instantiating handlers&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-375 ] Support SAMLConfigProvider and AuditHelper from WildFly IdP and SP bindings&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-418 ] AuthenticationFilter is returning HTTP Status Code 500 when any AuthenticationException is thrown&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-437 ] Source and Javadoc generation for snapshot builds&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-441 ] Identity Model classes no-arg constructors must be public&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-484 ] Jetty Binding Maven POM - move Jetty dependencies to provided scope&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-489 ] Support User Stereotypes in Credential API&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-497 ] Configure Signature Algorithm for IdP and SP&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-502 ] Improve validation of JPA mappings&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[ PLINK-503 ] Support formal attributes in Relationship types&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/06/16/Release-2/</id>
+    <title>PicketLink 2.6.0.CR5 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-06-16T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/06/16/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      The PicketLink team is pleased to announce the release of v2.6.0.CR5.
+      
+      
+      Some of the key aspects covered by this release include:
+      
+      
+      
+      
+      Identity Type and Relationship Stereotypes. More information here.
+      
+      
+      Minor fixed to the LDAP Identity Store when using MSAD.
+      
+      
+      Minor fixes to SAML support in WildFly.
+      
+      
+      Better support to HTML5 and BASIC authentication. In IE and Chrome the authentication dialog is no longer displayed when users provide an invalid credential.
+      
+      
+      
+      
+      More details about the issues resolved by this version can be found on the Release Notes.
+      ...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink team is pleased to announce the release of v2.6.0.CR5.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Some of the key aspects covered by this release include:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Identity Type and Relationship Stereotypes. More information &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html/sect-Stereotypes.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Minor fixed to the LDAP Identity Store when using MSAD.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Minor fixes to SAML support in WildFly.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Better support to HTML5 and BASIC authentication. In IE and Chrome the authentication dialog is no longer displayed when users provide an invalid credential.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details about the issues resolved by this version can be found on the &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12325105&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/06/06/Release-2/</id>
+    <title>PicketLink 2.6.0.CR4 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-06-06T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/06/06/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      The PicketLink team is pleased to announce the release of v2.6.0.CR4.
+      
+      
+      This is a major release, containing several improvements and covering some new requirements, specially for
+      authorization.
+      We are looking forward to hearing more about your experiences with the new version until we finally reach Final in the next month.
+      
+      
+      Some of the key aspects covered by this release include:
+      
+      
+      
+      
+      Stateless Authentication Model Reviewed. After some discussions we found better to remove the stereotype and provide a configuration API
+      for PicketLink Base Module. From where you can enable the stateless behavior of the Identity bean.
+      
+      
+      Configuration API for the Base Module, encapsulating both IDM and Authentication configurations....
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink team is pleased to announce the release of v2.6.0.CR4.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This is a major release, containing several improvements and covering some new requirements, specially for
+      &lt;a href=&quot;http://docs.jboss.org/picketlink/2/latest/reference/html-single/#chap-Authorization&quot;&gt;authorization&lt;/a&gt;.
+      We are looking forward to hearing more about your experiences with the new version until we finally reach Final in the next month.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Some of the key aspects covered by this release include:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Stateless Authentication Model Reviewed. After some discussions we found better to remove the stereotype and provide a configuration API
+      for PicketLink Base Module. From where you can enable the stateless behavior of the Identity bean.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Configuration API for the Base Module, encapsulating both IDM and Authentication configurations. You can now observe a SecurityConfigurationEvent
+      and provide all them from a single place.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Security Tokens based on both
+      &lt;a href=&quot;http://self-issued.info/docs/draft-ietf-oauth-json-web-token.txt&quot;&gt;JWT&lt;/a&gt;
+      and
+      &lt;a href=&quot;http://self-issued.info/docs/draft-ietf-jose-json-web-signature.txt&quot;&gt;JWS&lt;/a&gt;
+      specifications. Ideal for people looking for a simple and flexible API to issue and validate JSON-based Security Tokens.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Built-in Security Annotations for Authorization. Now you can secure your beans and methods very easily and check for roles, groups,
+      partitions, use EL-based expressions and check if the user is authenticated. Or even define your own security annotation and authorization logic!&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;PicketLink uber jar. This is a new artifact/dependency that packages the most common PicketLink modules and dependencies in a single JAR. So you don’t need to specify
+      them separately in your project. Making a lot easier to configure the PicketLink dependencies.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Quickstarts were updated to use the new authorization features. Check them out !&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;On the next weeks we’re going to focus on documentation, guides and quickstarts. Preparing for Final …​&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details about the issues resolved by this version can be found on the &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12323642&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/05/30/Release-2/</id>
+    <title>PicketLink 2.6.0.CR3 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-05-30T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/05/30/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      The PicketLink team is pleased to announce the release of v2.6.0.CR3.
+      
+      
+      This is another major release, containing several improvements and fixes.
+      We&#8217;ve received excellent feedback from the community regarding v2.6.0CR2 release, and are looking forward to hearing more about your experiences
+      with the new version until we finally reach Final.
+      
+      
+      More details about the issues resolved by this version can be found on the Release Notes.
+      ...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink team is pleased to announce the release of v2.6.0.CR3.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This is another major release, containing several improvements and fixes.
+      We’ve received excellent feedback from the community regarding v2.6.0CR2 release, and are looking forward to hearing more about your experiences
+      with the new version until we finally reach Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details about the issues resolved by this version can be found on the &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12324792&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/04/17/Release-2/</id>
+    <title>PicketLink 2.6.0.CR2 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-04-17T00:00:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/04/17/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Pedro Igor</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      The PicketLink team is pleased to announce the release of v2.6.0.CR2.
+      
+      
+      This is a major release, containing several improvements and covering some new requirements, specially for HTML5+JS Mobile and RESTFul use cases.
+      We&#8217;ve received excellent feedback from the community regarding v2.6.0CR1 release, and are looking forward to hearing more about your experiences
+      with the new version until we finally reach Final.
+      
+      
+      Some of the key aspects covered by this release include:
+      
+      
+      
+      
+      Stateless Authentication Model, ideal for RESTFul APIs Security and Token-based Authentication.
+      
+      
+      Better support to custom HTTP Authentication Schemes when using the AuthenticationFilter.
+      
+      
+      Security Tokens based on both
+      JWT
+      and
+      JWS
+      specifications. Ideal for people looking for a simple and flexible...
+    </summary>
+    <content type="html">
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink team is pleased to announce the release of v2.6.0.CR2.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This is a major release, containing several improvements and covering some new requirements, specially for HTML5+JS Mobile and RESTFul use cases.
+      We’ve received excellent feedback from the community regarding v2.6.0CR1 release, and are looking forward to hearing more about your experiences
+      with the new version until we finally reach Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Some of the key aspects covered by this release include:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Stateless Authentication Model, ideal for RESTFul APIs Security and Token-based Authentication.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Better support to custom HTTP Authentication Schemes when using the AuthenticationFilter.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Security Tokens based on both
+      &lt;a href=&quot;http://self-issued.info/docs/draft-ietf-oauth-json-web-token.txt&quot;&gt;JWT&lt;/a&gt;
+      and
+      &lt;a href=&quot;http://self-issued.info/docs/draft-ietf-jose-json-web-signature.txt&quot;&gt;JWS&lt;/a&gt;
+      specifications. Ideal for people looking for a simple and flexible API to issue and validate JSON-based Security Tokens.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Connection Pooling to the LDAP Identity Store.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;SAML Service Providers are now able to provide a Domain Chooser Page to select the appropriate IdP the user wants to authenticate against.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;SAML-based example applications are now merged into the &lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts&quot;&gt;PicketLink Quickstarts Repository&lt;/a&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;All quickstarts are ready to be deployed on both JBoss EAP and WildFly.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The site is also updated with a few guides covering different aspects of PicketLink, giving you some background about some core concepts.
+      More guides and articles are comming, keep an eye on the &lt;a href=&quot;https://www.picketlink.org/gettingstarted/&quot;&gt;Getting Started&lt;/a&gt; page.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We would like to thank all the community for all contribution and feedback. Special thanks to Maximos Sapranidis for the HTML5+AngularJS+RESTFul Quickstart, which
+      will be available very soon in the quickstarts repository. And also, Jonathan Fuerth for all improvements to the Authentication Filter.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;More details about the issues resolved by this version can be found on the &lt;a href=&quot;https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&amp;amp;version=12323642&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.picketlink.org/news/2014/03/27/Release-2/</id>
+    <title>PicketLink 2.6.0.CR1 is out!</title>
+    <updated>2014-12-24T00:02:31-02:00</updated>
+    <published>2014-03-27T13:04:00+01:00</published>
+    <link href="https://www.picketlink.org/news/2014/03/27/Release-2/" rel="alternate" type="text/html" />
+    <author>
+      <name>Anil Saldhana</name>
+    </author>
+    <category term="announcement"></category>
+    <category term="release"></category>
+    <summary>
+      
+      
+      
+      The PicketLink team is pleased to announce the release of v2.6.0.CR1.  This release also marks the unveiling of the new look and feel for the PicketLink website: http://www.picketlink.org built on Awestruct and jboss.org Bootstrap.
+      
+      
+      
+      
+      Notable Changes
+      
+      
+      
+      PicketLink SAML SSO For WildFly8
+      
+      
+      
+      WildFly Bindings for Federation
+      
+      
+      
+      
+      
+      Improved Documentation (We still need to do a better job at documentation. :-) )
+      
+      
+      Additional PicketLink Quickstarts
+      
+      
+      PicketLink Permission API
+      
+      
+      PicketLink Subsystem for WildFly
+      
+      
+      EAP Module Upgrade (containing all 2.6+ libraries)
+      
+      
+      PL Extension for both EAP and WildFly
+      
+      
+      SAML2 IDP Initiated SSO
+      
+      
+      Service Provider Dynamic Account Chooser Functionality
+      
+      
+      
+      
+      
+      PicketLink Quickstarts
+      
+      Quickstarts are available at:
+      https://github.com/jboss-developer/jboss-picketlink-quickstarts/
+      
+      
+      The quickstarts are listed below:
+      
+      
+      Authentication:
+      
+      
+      
+      https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-form [Authentication with HTTP FORM]
+      
+      
+      https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-client-cert [Authentication with HTTP CLIENT-CERT]
+      
+      
+      https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-digest [Authentication...
+    </summary>
+    <content type="html">
+      &lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The PicketLink team is pleased to announce the release of v2.6.0.CR1.  This release also marks the unveiling of the new look and feel for the PicketLink website: &lt;a href=&quot;http://www.picketlink.org&quot; class=&quot;bare&quot;&gt;http://www.picketlink.org&lt;/a&gt; built on Awestruct and jboss.org Bootstrap.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;_notable_changes&quot;&gt;Notable Changes&lt;/h3&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;PicketLink SAML SSO For WildFly8&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;WildFly Bindings for Federation&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Improved Documentation (We still need to do a better job at documentation. :-) )&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Additional PicketLink Quickstarts&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;PicketLink Permission API&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;PicketLink Subsystem for WildFly&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;EAP Module Upgrade (containing all 2.6+ libraries)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;PL Extension for both EAP and WildFly&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;SAML2 IDP Initiated SSO&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Service Provider Dynamic Account Chooser Functionality&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;_picketlink_quickstarts&quot;&gt;PicketLink Quickstarts&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Quickstarts are available at:
+      &lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The quickstarts are listed below:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_authentication&quot;&gt;Authentication:&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-form&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-form&lt;/a&gt; [Authentication with HTTP FORM]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-client-cert&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-client-cert&lt;/a&gt; [Authentication with HTTP CLIENT-CERT]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-digest&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-digest&lt;/a&gt; [Authentication with HTTP DIGEST]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-basic&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-http-basic&lt;/a&gt; [Authentication with HTTP BASIC]
+      *https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-idm-jsf [Authentication with PicketLink IDM for a JSF Application]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-idm-multi-tenancy&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-idm-multi-tenancy&lt;/a&gt; [Authentication with PicketLink IDM for a Multi-tenancy usecase for a JSF Application]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-jsf&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-jsf&lt;/a&gt; [Authentication using Username/Password in a JSF Application]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-recaptcha&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-recaptcha&lt;/a&gt; [Authentication using Re-Captcha]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-rs-endpoint&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-rs-endpoint&lt;/a&gt; [Authentication using REST endpoints]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-two-factor&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-two-factor&lt;/a&gt; [Two Factor Authentication using One Time Passwords (OTP) using Google Authenticator Mobile Application]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_social_login&quot;&gt;Social Login:&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-facebook&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-facebook&lt;/a&gt; [Facebook Connect Based Authentication]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-twitter&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authentication-twitter&lt;/a&gt; [Twitter Based Authentication]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_authorization_and_permissions&quot;&gt;Authorization and Permissions:&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-acl&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-acl&lt;/a&gt; [IDM-based authorization using the Permissions API to implement ACL-based resource restrictions]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-idm-jpa&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-idm-jpa&lt;/a&gt; [IDM-based authorization using a JPA-based PicketLink IDM configuration]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-idm-ldap&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-idm-ldap&lt;/a&gt; [ IDM-based authorization using a LDAP-based PicketLink IDM configuration]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-rs-rbac&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-authorization-rs-rbac&lt;/a&gt; [Quickstart that demonstrates how to use RBAC to your JAX-RS Endpoints]&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_federation_saml_ws_trust_etc&quot;&gt;Federation (SAML,WS-Trust etc):&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-basic&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-basic&lt;/a&gt;  (PicketLink SAML Identity Provider with HTTP Basic)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-servlet-filter&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-servlet-filter&lt;/a&gt; (PicketLink SAML Identity Provider using a Servlet Filter)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-encryption&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-encryption&lt;/a&gt; (PicketLink SAML Identity Provider using XML Encryption)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-signature&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-signature&lt;/a&gt; (PicketLink SAML Identity Provider using XML Signature)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-metadata&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-metadata&lt;/a&gt; (PicketLink SAML Identity Provider with SAML Metadata)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-ssl&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-idp-with-ssl&lt;/a&gt; (PicketLink SAML Identity Provider using SSL Client Authentication)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-post-basic&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-post-basic&lt;/a&gt; (PicketLink SAML Service Provider using SAML HTTP POST Binding)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-post-with-signature&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-post-with-signature&lt;/a&gt; (PicketLink SAML Service Provider using SAML HTTP POST Binding and XML Signatures)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-with-encryption&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-with-encryption&lt;/a&gt; (PicketLink SAML Service Provider using SAML HTTP POST Binding with XML Encryption)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-redirect-basic&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-redirect-basic&lt;/a&gt; (PicketLink SAML Service Provider using HTTP Redirect Binding)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-redirect-with-signature&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-redirect-with-signature&lt;/a&gt; (PicketLink SAML Service Provider using HTTP Redirect Binding and XML Signature)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-with-metadata&quot; class=&quot;bare&quot;&gt;https://github.com/jboss-developer/jboss-picketlink-quickstarts/tree/master/picketlink-federation-saml-sp-with-metadata&lt;/a&gt; (PicketLink SAML Service Provider using SAML Metadata)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/picketlink2/picketlink-quickstarts/tree/master/ws-trust&quot; class=&quot;bare&quot;&gt;https://github.com/picketlink2/picketlink-quickstarts/tree/master/ws-trust&lt;/a&gt; (PicketLink WS-Trust STS)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;https://www.picketlink.org/images/documentation.png&quot; alt=&quot;documentation&quot; /&gt;&lt;/span&gt;
+      NOTE&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;listingblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre&gt;There are some additional quickstarts that have not been fully migrated over to JBoss Developer Quickstarts.&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;_jira&quot;&gt;JIRA&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://issues.jboss.org/browse/PLINK&quot; class=&quot;bare&quot;&gt;https://issues.jboss.org/browse/PLINK&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;_release_notes&quot;&gt;Release Notes&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The following section lists out the release notes for the versions leading up to v2.6.0.CR1&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_release_notes_picketlink_version_plink_2_6_0_cr1&quot;&gt;Release Notes - PicketLink - Version PLINK_2.6.0.CR1&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Bug&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-378] - SAML2LogoutHandler should create logout request with nameid format&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-379] - HTTP Redirect Binding is not restoring original request when accessing a SP for the first time&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-380] - IDPFilter is not populating roles in assertion when using SAML v1.1&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-381] - IDPFilter is stopping the filter chain and not providing application resources&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-382] - WildFly Binding is not supporting SAML v1.1 usecases&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-383] - WildFly SP Binding is is raising IllegalStateException messages.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_release_notes_picketlink_version_plink_2_6_0_beta4&quot;&gt;Release Notes - PicketLink - Version PLINK_2.6.0.Beta4&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Bug&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-356] - Reloading configuration in IDP doesn’t work&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-367] - Custom partition types are not properly configured when specifying the custom type instead of the base Partition type&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-372] - boolean config values should default to boolean.FALSE if not explicitly declared in configs&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Enhancement&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-313] - IDP should be configurable to sign assertions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-375] - Support SAMLConfigProvider and AuditHelper from WildFly IdP and SP bindings&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Feature Request&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-327] - PasswordCredentialTypeEntity could not be loaded with TomEE&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-344] - Service Provider Dynamic Account Chooser Functionality&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-363] - Combined Service Provider Authenticator&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-364] - SAML2 IDP Initiated SSO&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-368] - Role Generator for JBossAS/JBossWeb Combination&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Task&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-284] - PicketLink IDP and SPNego&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-319] - WildFly PicketLink Extension and IDM Subsystem&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-370] - Lower log level from INFO to TRACE for Canonicalization&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-373] - Ensure Boolean variables are initialized and handle null autoboxing issues&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-374] - Enable WildFly distribution in PicketLink Bindings&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-376] - Port JSON Security from PicketBox Core&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_release_notes_picketlink_version_plink_2_6_0_beta3&quot;&gt;Release Notes - PicketLink - Version PLINK_2.6.0.Beta3&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Bug&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-361] - Wrong validation when configuring credentials using multiple stores for a single identity configuration&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Feature Request&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-268] - Implement Permission Management&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-359] - Regular Expression User Name Login Module&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_release_notes_picketlink_version_plink_2_6_0_beta2&quot;&gt;Release Notes - PicketLink - Version PLINK_2.6.0.Beta2&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Bug&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-199] - Error granting role with EclipseLink&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-210] - Regression: use of In.value() for collections&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-332] - PicketLink fails to bootstrap due to TransactionRequiredException on TomEE and GlassFish&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Feature Request&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-146] - XMLSignatureUtil should allow KeyInfo to use X509 if desired&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-303] - Improve logging and messages&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-323] - Social Login Quickstarts&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-341] - SAML Service Provider Workflow abstraction&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-342] - IDPFilter for web applications&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-343] - Jetty Bindings for SAML SSO&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Task&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-350] - Validate XMLSignatureUtil→KeyInfo/X509Certificate Usage&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;_release_notes_picketlink_version_plink_2_5_3_beta1_same_as_2_6_0_beta1&quot;&gt;Release Notes - PicketLink - Version PLINK_2.5.3.Beta1 (Same as 2.6.0.Beta1)&lt;/h4&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Bug&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-209] - Debug/Error inconsistency in exception logging&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-257] - PicketLink does not work properly when using JBoss Modules&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-259] - ShanesBigSanityCheckTestCase.testScenario1 is failing sometimes&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-278] - TransactionRequiredException thrown by IDM when no @Startup bean performs initialization&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-285] - RelationshipManager allows null group to be added to identity. NullPointerException results upon subsequent access to user’s groups&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-286] - BasicModel.isMember() throws NullPointerException when group does not exist&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-298] - LDAPIdentityStore is not handling property MSAD’s objectGUID for identifiers&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-300] - AbstractIDPValve throws NPE when using metadata and AuthnRequestsSigned is null.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-302] - Annotate date fields in the simple schema with @Temporal&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-309] - AttributeParameter needs equals() and hashcode()&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-312] - StackOverflowError in identity query with attribute parameter&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-314] - Annotations are not always recognized when defined in a field only&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-326] - Twitter Authenticator can throw no token available error&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-330] - DefaultPicketLinkLogger can not use parametrized methods from jboss logging&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-340] - AS submodule: IdentityConfigurationBuilder error messages are missing real reasons&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Enhancement&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-282] - Support for Multiple Custom Identity Stores in the IdentityConfigurationBuilder Fluent API&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-301] - Small changes to the exception hierarchy&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-305] - Authenticating custom account types without providing a custom credential handler&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-306] - Support different stores configuration with different identity types&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-310] - Set default partition to types when the underlying store does not support partitions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-315] - Use the LDAP mapping configuration to discover the supported types&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-331] - Support EclipseLink when running the IDM tests&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-334] - Add a method to retrieve all configuration used to build a PartitionManager&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-335] - Fire event right after the PartitionManager is built to allow customs initialization logic&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-336] - Remove wrong debug logging message for the default logger implementation&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Feature Request&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-190] - JDBC Identity Store Implementation&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-287] - Need a method of determining if a User email address is already used&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-295] - GenericHeaderAuthenticator&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-296] - SSLValve from JBossWeb Sandbox&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-311] - Provide to the LDAP store a configuration that allows to specify the hierarchy search depth&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Task&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-167] - Ensure Logger for exception messages&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-280] - Clean up wildcard imports&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-289] - Create PicketLink BOM Module&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-290] - Update documentation and site with the quickstarts changes&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-291] - Update quickstarts with the PicketLink BOM&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-293] - Enable and fix checkstyle validation for all modules&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-307] - Transfer PicketLink Quickstarts to JDF&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-308] - Support mapping between types and their corresponding objectClasses.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-320] - Enable CDI on PicketLink IDM.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Sub-task&lt;/p&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-324] - Social Login Quickstart: Login With Facebook&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;[PLINK-325] - Social Login Quickstart: Login With Twitter&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;_picketlink_saml_sso_on_wildfly_as&quot;&gt;PicketLink SAML SSO on WildFly AS&lt;/h3&gt;
+      &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;PicketLink SAML SSO on &lt;a href=&quot;https://twitter.com/WildFlyAS&quot;&gt;@WildFlyAS&lt;/a&gt; via &lt;a href=&quot;https://twitter.com/pigorcraveiro&quot;&gt;@pigorcraveiro&lt;/a&gt; Link 1:
+      &lt;a href=&quot;https://t.co/SGhjOHn0c9&quot;&gt;https://t.co/SGhjOHn0c9&lt;/a&gt;
+      Link 2:
+      &lt;a href=&quot;https://t.co/me2UuoTdFM&quot;&gt;https://t.co/me2UuoTdFM&lt;/a&gt;
+      &lt;a href=&quot;https://twitter.com/search?q=%23wildfly&amp;amp;src=hash&quot;&gt;#wildfly&lt;/a&gt;&lt;/p&gt;— PicketLink (@picketlink) &lt;a href=&quot;https://twitter.com/picketlink/statuses/445916176657686528&quot;&gt;March 18, 2014&lt;/a&gt;&lt;/blockquote&gt;
+      &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+      &lt;/div&gt;
+    </content>
+  </entry>
+</feed>

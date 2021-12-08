@@ -1,0 +1,205 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>PicketLink - Apache Licensed Open Source Java Security.</title>
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="PicketLink - an open source framework for security"
+	name="description">
+<meta
+	content="Java, JavaEE, JBoss, JBossAS, WildFly, Apache, Security, SAML, OAuth"
+	name="keywords">
+<link href="/stylesheets/styles.css"
+	media="screen" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/png"
+	href="https://design.jboss.org/picketlink/logo/images/favicon.ico" />
+<!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    <![endif]-->
+
+</head>
+<body>
+	<a href="/" style="text-decoration: none;">
+		<header style="height: 100px">
+			<section class="container-fluid" style="padding: -20px auto;">
+				<hgroup class="hidden-phone" style="text-align: left;">
+					<h1 class="header_title">PicketLink</h1>
+				</hgroup>
+			</section>
+		</header>
+	</a>
+	<header id="main-header">
+		<nav>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/">Get Started</a></li>
+				<li>Documentation (<a href="https://docs.jboss.org/picketlink/2/latest/reference/pdf/picketlink-reference-guide.pdf">PDF</a>/<a href="https://docs.jboss.org/picketlink/2/latest/reference/html/">HTML</a>/<a href="https://docs.jboss.org/picketlink/2/latest/api/">API</a>)</li>
+				<li><a href="https://github.com/picketlink/">Sources</a></li>
+				<li><a
+					href="https://issues.jboss.org/secure/ReleaseNote.jspa?projectId=12310923&version=12323896">Latest
+						Version (<i>2.6.0.Beta3</i>)
+				</a></li>
+			</ul>
+		</nav>
+	</header>
+	<article class="secondary">
+		<div class="container-fluid">
+			<h2>Get Ready and Fast !</h2>
+			<p>This guide will walk you through downloading, installing and
+				running PicketLink for the first time. It will then introduce to
+				some of the key features of PicketLink.</p>
+			<h3>Obtaining PicketLink</h3>
+			
+			<p>PicketLink can be obtained in different ways, depending on your needs.</p>
+			
+			<p>If you're looking for Java JEE Application Security, what means you want to use PicketLink Authentication and Authorization API, you should prefer 
+			configuring PicketLink as a dependency in your Apache Maven project. The recommendation is the same if you're looking the Identity Management API.</p>
+
+			<p>
+				But if you're looking for the PicketLink Federation features, you should prefer the PicketLink Installer approach, as described in the next sections. 
+				It is easier and fully compatible with the old v2.1 versions. 
+			</p>
+			
+			<div class="row-fluid">
+				<h4>As a Maven Dependency</h4>
+				<p>
+					PicketLink libraries are available on <a
+						href="https://repository.jboss.org/nexus/index.html#nexus-search;gav~org.picketlink~~2.6.0.Beta3~~">JBoss
+						Release Repository</a> and <a
+						href="https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.picketlink%22%20AND%20v%3A%222.6.0.Beta3%22">Maven
+						Central</a>.
+				</p>
+				
+				<p>
+					If your project is using Apache Maven, you only need the following dependency in your POM:
+				</p>
+				
+				<div style="width: 50em;">
+<pre>
+&lt;properties&gt;
+	&lt;picketlink.version&gt;2.6.0.Beta3&lt;/picketlink.version&gt;
+&lt;/properties&gt;
+
+&lt;dependencies&gt;
+	&lt;dependency&gt;
+		&lt;groupId&gt;org.picketlink&lt;/groupId&gt;
+		&lt;artifactId&gt;picketlink-api&lt;/artifactId&gt;
+		&lt;scope&gt;compile&lt;/scope&gt;
+		&lt;version&gt;${picketlink.version}&lt;/version&gt;
+	&lt;/dependency&gt;
+	
+	&lt;dependency&gt;
+		&lt;groupId&gt;org.picketlink&lt;/groupId&gt;
+		&lt;artifactId&gt;picketlink-impl&lt;/artifactId&gt;
+		&lt;scope&gt;runtime&lt;/scope&gt;
+		&lt;version&gt;${picketlink.version}&lt;/version&gt;
+	&lt;/dependency&gt;
+&lt;/dependencies&gt;	
+</pre>
+
+				</div>
+				
+				<p>
+					You can use a Bill of Materials (BOM) to configure PicketLink in your project.
+				</p>
+				
+				<div style="width: 50em;">
+
+<pre>
+&lt;properties&gt;
+	&lt;version.picketlink.javaee.bom&gt;2.6.0.Beta3&lt;/version.picketlink.javaee.bom&gt;
+&lt;/properties&gt;
+
+&lt;/dependencyManagement&gt;
+	&lt;dependency&gt;
+		&lt;groupId&gt;org.picketlink&lt;/groupId&gt;
+		&lt;artifactId&gt;picketlink-javaee-6.0&lt;/artifactId&gt;
+		&lt;type&gt;pom&lt;/type&gt;
+		&lt;scope&gt;import&lt;/scope&gt;
+		&lt;version&gt;${version.picketlink.javaee.bom}&lt;/version&gt;
+	&lt;/dependency&gt;
+&lt;/dependencyManagement&gt;
+
+&lt;dependencies&gt;
+	&lt;dependency&gt;
+		&lt;groupId&gt;org.picketlink&lt;/groupId&gt;
+		&lt;artifactId&gt;picketlink-api&lt;/artifactId&gt;
+		&lt;scope&gt;compile&lt;/scope&gt;
+	&lt;/dependency&gt;
+	
+	&lt;dependency&gt;
+		&lt;groupId&gt;org.picketlink&lt;/groupId&gt;
+		&lt;artifactId&gt;picketlink-impl&lt;/artifactId&gt;
+		&lt;scope&gt;runtime&lt;/scope&gt;
+	&lt;/dependency&gt;
+&lt;/dependencies&gt;	
+</pre>
+				</div>
+				
+				<p>
+					Please note that when using JBoss BOMs you're tied to a specific version of PicketLink. 
+					<b>So always make sure you're using the BOM version with the latest PicketLink version.</b> Check our <a href="https://docs.jboss.org/picketlink/2/latest/reference/html/">documentation</a> for more details.
+				</p>
+				<br/>
+			</div>
+			<h3>Quickstarts</h3>
+			<div class="row-fluid">
+				<p>PicketLink provides a plenty of quickstarts to let you drive quickly with some of the most important features.</p>
+				
+				<p>
+					The quickstarts are available on the PicketLink Quickstarts <a href="https://github.com/jboss-developer/jboss-picketlink-quickstarts">repository</a>.
+				</p>
+				
+				<p>
+					Follow the instructions there to get them and deploy in a JBoss Enterprise Application Platform 6 server.
+				</p>
+			</div>			
+			<h3>Documentation</h3>
+			<div class="row-fluid">
+				<p>The PicketLink documentation is the best source of information about all the PicketLink features and usage.</p>
+				
+				<p>The documentation is available <a href="https://docs.jboss.org/picketlink/2/latest/reference/html/">here</a></p>
+			</div>			
+		</div>
+	</article>
+	<footer class="footer_sub_pages">
+		<div class="container-fluid">
+			<ul class="row-fluid">
+				<li><a href="/about.html">About
+						PicketLink</a></li>
+				<li><a
+					href="https://docs.jboss.org/picketlink/2/latest/reference/html/">Documentation</a>
+				</li>
+				<li><a href="https://issues.jboss.org/browse/PLINK">Report
+						issues</a></li>
+				<li><a href="https://www.jboss.org/picketlink">Community</a></li>
+				<li><a href="/faq.html">FAQ</a></li>
+				<li><a href="/social.html">Social</a>
+				</li>
+			</ul>
+		</div>
+		<div class="logos">
+			<p>
+				PicketLink is a <a href="https://www.jboss.org/">JBoss Community</a>
+				project and its development is sponsored by <a
+					href="https://www.redhat.com/">Red Hat, Inc</a>. Project code is
+				released under the <a
+					href="https://www.apache.org/licenses/LICENSE-2.0.html"
+					target="_blank">Apache License, v2.0</a>.
+			</p>
+			<p>
+				<a href="https://www.jboss.org/"><img
+					src="https://www.jboss.org/dms/wildfly_splash/jbossbadge.png"
+					alt="JBoss Community"></a> <a href="https://www.redhat.com/"><img
+					src="https://www.jboss.org/dms/wildfly_splash/redhat_logo.png"
+					alt="Red Hat"></a>
+			</p>
+			<p>Copyright &copy; 2014, Red Hat, Inc.</p>
+		</div>
+	</footer>
+	<script src="https://www.wildfly.org/javascripts/jquery.min.js"
+		type="text/javascript"></script>
+</body>
+</html>
+
